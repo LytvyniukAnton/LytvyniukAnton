@@ -13,6 +13,7 @@
 [<img align="left" alt="AntonLytvyniuk | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="AntonLytvyniuk | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AntonLytvyniuk | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="AntonLytvyniuk | Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars]
 
 
 <br />
@@ -30,3 +31,4 @@
 [facebook]: https://www.facebook.com/Halldrex/
 [linkedin]: http://www.linkedin.com/in/anton-lytvyniuk-2b4005208/
 [telegram]: https://t.me/Halldrex
+[codewars]:https://www.codewars.com/users/Halldrex
