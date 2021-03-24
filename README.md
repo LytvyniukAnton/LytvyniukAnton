@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Anton
 
-## I'm a begginer Java Developer😀
+## I'm a begginer Developer😀
 - 💻 I like to write code;
 - 🎶 I love to read books and travel;
 - 📝 I am constantly learning new things;
