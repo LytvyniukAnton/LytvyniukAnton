@@ -15,6 +15,7 @@
 [<img align="left" alt="AntonLytvyniuk | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="AntonLytvyniuk | Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars]
 [<img align="left" alt="AntonLytvyniuk | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackOverflow]
+[<img align="left" alt="AntonLytvyniuk | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 
 
 <br />
@@ -35,3 +36,4 @@
 [telegram]: https://t.me/Halldrex
 [codewars]:https://www.codewars.com/users/Halldrex
 [stackoverflow]:https://stackoverflow.com/users/11573975/anton-lytvyniuk?tab=profile
+[steam]:https://steamcommunity.com/profiles/76561198082834103/
