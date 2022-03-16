@@ -44,4 +44,4 @@
 [codewars]:https://www.codewars.com/users/Halldrex
 [stackoverflow]:https://stackoverflow.com/users/11573975/anton-lytvyniuk?tab=profile
 [steam]:https://steamcommunity.com/profiles/76561198082834103/
-[discord]:https://discord.com/Aragorn#0386/
+[discord]:https://discord.com/channels/@me/
