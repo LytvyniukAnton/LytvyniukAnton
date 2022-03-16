@@ -16,6 +16,7 @@
 [<img align="left" alt="AntonLytvyniuk | Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars]
 [<img align="left" alt="AntonLytvyniuk | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackOverflow]
 [<img align="left" alt="AntonLytvyniuk | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
+[<img align="left" alt="AntonLytvyniuk | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 
 <br />
@@ -31,6 +32,7 @@
 <img align="left" alt="Cplusplus" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="MySQL" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="PhotoShop" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
+<img align="left" alt="Git" width="60px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 
 <br />
 <br />
@@ -42,3 +44,4 @@
 [codewars]:https://www.codewars.com/users/Halldrex
 [stackoverflow]:https://stackoverflow.com/users/11573975/anton-lytvyniuk?tab=profile
 [steam]:https://steamcommunity.com/profiles/76561198082834103/
+[steam]:https://discord.com/channels/@me/
