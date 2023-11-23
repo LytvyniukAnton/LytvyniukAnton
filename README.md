@@ -1,15 +1,8 @@
 ### Hi there 👋, I'm Anton
 
-## I'm a begginer Developer😀
-- 💻 I like to write code;
-- 🎶 I love to read books and travel;
-- 📝 I am constantly learning new things;
-- 🚗 I love tuning cars;
-
 <br />
 
 ### Languages and Tools:
-
 
 <img align="left" alt="Java" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="Qt-creator" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" />
@@ -19,4 +12,5 @@
 <img align="left" alt="Cplusplus" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="MySQL" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="PhotoShop" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
+<img align="left" alt="Linux" width="60px" src="https://www.vectorlogo.zone/logos/linux/linux.svg" />
 <img align="left" alt="Git" width="60px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
