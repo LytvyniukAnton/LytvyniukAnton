@@ -6,21 +6,6 @@
 - 📝 I am constantly learning new things;
 - 🚗 I love tuning cars;
 
-### Connect with me:
-
-
-[<img align="left" alt="AntonLytvyniuk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="AntonLytvyniuk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="AntonLytvyniuk | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="AntonLytvyniuk | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AntonLytvyniuk | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="AntonLytvyniuk | Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars]
-[<img align="left" alt="AntonLytvyniuk | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackOverflow]
-[<img align="left" alt="AntonLytvyniuk | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
-[<img align="left" alt="AntonLytvyniuk | WebSite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />][website]
-
-
-
 <br />
 
 ### Languages and Tools:
@@ -35,16 +20,3 @@
 <img align="left" alt="MySQL" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="PhotoShop" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
 <img align="left" alt="Git" width="60px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-
-<br />
-<br />
-
-[instagram]: https://www.instagram.com/l.anton.v/
-[twitter]: https://twitter.com/Anton_Lytvyniuk
-[facebook]: https://www.facebook.com/Halldrex/
-[linkedin]: http://www.linkedin.com/in/anton-lytvyniuk-2b4005208/
-[telegram]: https://t.me/Halldrex
-[codewars]:https://www.codewars.com/users/Halldrex
-[stackoverflow]:https://stackoverflow.com/users/11573975/anton-lytvyniuk?tab=profile
-[steam]:https://steamcommunity.com/profiles/76561198082834103/
-[website]:https://lytvyniuk-anton-summary.netlify.app/
