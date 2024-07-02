@@ -15,3 +15,10 @@ I`m junior cybersecurity specialist
 <img align="left" alt="PhotoShop" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
 <img align="left" alt="Linux" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Git" width="60px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img align="left" alt="Oracle" width="60px" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" />
+<img align="left" alt="Kali linux" width="60px" src="https://upload.vectorlogo.zone/logos/kali/images/09452257-ce76-4881-8cb9-c6a676444ca5.svg" />
+<img align="left" alt="Steam" width="60px" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" />
+<img align="left" alt="SteamDeck" width="60px" src="https://www.vectorlogo.zone/logos/steamdeck/steamdeck-icon.svg" />
+<img align="left" alt="VMware" width="60px" src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/vmware-workstation.svg" />
+<img align="left" alt="VirtualBox" width="60px" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" />
+<img align="left" alt="Wazuh" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Wazuh_blue.png" />
