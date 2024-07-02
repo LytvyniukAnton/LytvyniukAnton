@@ -25,7 +25,7 @@ I've been interested in IT since high school. I have a first degree in Automatio
   <img alt="Linux" width="60px" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
   <img alt="Wazuh" width="60px" style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Wazuh_blue.png" />
   <img alt="IBM QRadar" width="60px" style="margin: 10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThDlg1G1Vs-S0IU4LSyl35Teh8H1hDylU44UEjZEuQ4I4zSUiV70thy9O4zzlv8c27NkU&usqp=CAU" />
-  <img alt="Git" width="60px" style="margin: 10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXTLKM6jWIKJLhyKl7AU-zwzl-bmDJEV9fog&s" />
+  <img alt="Wialon" width="60px" style="margin: 10px;" src="https://play-lh.googleusercontent.com/yAlU8TWv8EoNur8XOB_wcom5FmDBez91BmxWis1OoWd2Rl6rK2EAALtRO0MxR3P8QQ=w240-h480-rw" />
 </div>
 
 <br clear="left" />
