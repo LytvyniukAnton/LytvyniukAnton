@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm Anton
+I`m junior cybersecurity specialist
 
 <br />
 
