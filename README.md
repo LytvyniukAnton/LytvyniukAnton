@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Anton, a junior cybersecurity specialist
+### Hi there 👋, I'm Anton
 
 I aspire to become a DevOps engineer with a strong focus on automation, security, and reliability. My goal is to design and maintain infrastructure and deployment pipelines that are scalable, efficient, and resilient to threats. 
 I want to contribute to building secure, automated systems that help organizations deliver software faster and safer.
