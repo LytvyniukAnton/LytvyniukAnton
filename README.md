@@ -1,8 +1,10 @@
 ### Hi there 👋, I'm Anton, a junior cybersecurity specialist
 
-I aspire to become a cybersecurity expert and use my knowledge and skills to protect information systems and data from cyberattacks. My goal is to contribute to the fight against cybercrime and protect people from online fraud and identity theft. I want to develop and implement innovative cybersecurity solutions to help companies protect their data and systems from cyberattacks. My dream is to make the modern digital world safer for everyone.
+I aspire to become a DevOps engineer with a strong focus on automation, security, and reliability. My goal is to design and maintain infrastructure and deployment pipelines that are scalable, efficient, and resilient to threats. 
+I want to contribute to building secure, automated systems that help organizations deliver software faster and safer.
 
-I've been interested in IT since high school. I have a first degree in Automation and Computer-Integrated Technologies. I have a little experience with satellite transport monitoring systems. I am currently pursuing my second degree in Cybersecurity and Information Protection. I want to develop and implement innovative solutions to protect information systems and ensure data security in the modern digital world.
+I've been passionate about IT since high school. I hold two degrees: the first in Automation and Computer-Integrated Technologies, and the second in Cybersecurity and Information Protection.
+With my combined background in automation and cybersecurity, I aim to develop innovative DevSecOps solutions that integrate security into every stage of the software lifecycle. My ambition is to help companies protect their systems and data while enabling rapid, reliable delivery of digital services.
 
 ### Languages and Tools:
 
